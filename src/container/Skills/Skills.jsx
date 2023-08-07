@@ -67,9 +67,9 @@ const experiences = [
     year: "2021-2022",
     works: [
       {
-        name: "Full Stack Web Developer",
-        company: "Ewheelie Electro Universe Pvt Ltd",
-        desc: "As a Full Stack Developer at Ewheelie Electro Universe Pvt Ltd, I've been actively involved in designing and developing dynamic web applications using the MERN (MongoDB, Express.js, React, Node.js) stack. Collaborating within cross-functional teams, I've contributed to seamless user experiences through responsive front-end design and efficient back-end architecture. My role encompasses RESTful API development, database management with MongoDB, and ensuring application security through user authentication mechanisms. This experience continues to strengthen my skills in the MERN stack and my ability to deliver high-quality, impactful solutions.",
+        name: "Accomplished Full Stack Development",
+        company: "Masai School",
+        desc: "Completed Full Stack Web Development Program at Masai School, gaining proficiency in both front-end and back-end technologies. Equipped with skills to design user-friendly interfaces and create efficient web applications. Excited to apply knowledge as a Full Stack Developer",
       },
     ],
   },
